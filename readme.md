@@ -1,0 +1,1 @@
+an escate from technical writing.
