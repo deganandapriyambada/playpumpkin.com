@@ -1,0 +1,10 @@
+---
+---
+{% assign my_title = page.title | append: " |" %}
+{% include header.html title=my_title %}
+{% include top.navigation.html %}
+<body>
+<div class="post">
+     {{  page.content }}
+</div>
+</body>

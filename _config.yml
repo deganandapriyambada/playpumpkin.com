@@ -1,6 +1,6 @@
 ## website general information configuration.
-site_title: "Pipe N' Poof - a Journey to Experiment on Design, Build and Proof the Data Pipeline"
-site_description: "My Learning Journey"
+site_title: "Playpumpkin"
+site_description: "a MMORPG Games Guide & Review"
 permalink: /:categories/:year/:month/:title
 
 plugins:
@@ -8,8 +8,6 @@ plugins:
   - jekyll-paginate-categories
   - jekyll-paginate-tags
   - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-archives
   - jekyll-tagging-related_posts
   - jekyll-last-modified-at
   - jekyll-loading-lazy
@@ -18,7 +16,7 @@ plugins:
 url: "https://playpumpkin.com" # the base hostname & protocol for your site
 
 
-paginate: 8
+paginate: 5
 paginate_path: '/page-:num/'
 
 paginate_category_basepath: '/category/:name/'

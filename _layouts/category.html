@@ -1,0 +1,13 @@
+---
+---
+<body>
+{% assign my_title = page.category | append: " | " %}
+{% include header.html title=my_title %}
+{% include top.navigation.html %}
+{% for post in paginator.posts %}                
+<div class="hl-c-title">
+<a href="{{post.url}}">{{ post.title }}</a>
+</div>
+{% endfor %}
+
+</body>

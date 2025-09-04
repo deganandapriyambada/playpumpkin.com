@@ -1,0 +1,32 @@
+img[alt=postimage80] { 
+  width: 80%; 
+  display: block; 
+  margin: 0 auto;
+}
+
+img[alt=postimage60] { 
+  width: 60%; 
+  display: block; 
+  margin: 0 auto;
+}
+
+img[alt=postimage100] { 
+  width: 100%; 
+}
+
+.center-image {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  font-size: 14px;
+  padding-top: 25px;
+  text-decoration: underline;
+  color: #3d3d3d;
+}
+
+.center-image-2 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
