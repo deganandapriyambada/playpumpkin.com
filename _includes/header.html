@@ -9,5 +9,20 @@
     <meta property="og:site_name" content="playpumpkin.com">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap" rel="stylesheet">
+    {% if page.url == "/" %}
+    <link rel="canonical" href="{{ site.url }}">
+    {% elsif page.url contains '/category/' %}
+    <link rel="canonical" href="{{ site.url }}{{ page.url }}">
+    {% elsif page.url contains '/tags/' %}
+    {% assign first_post = site.posts | where_exp:"post","post.tags contains page.tag" | first %}
+    {% if first_post %}
+    {% assign parent_category = first_post.categories | first %}
+    <link rel="canonical" href="{{ site.url }}/category/{{ parent_category }}/">
+    {% endif %}
+    {% else %}
+    <link rel="canonical" href="{{ site.url }}{{ page.url }}">
+    {% endif %}
+    <link href="/assets/lightbox/lightbox.css" rel="preload" as="style" onload="this.rel='stylesheet'">
+    <script src="/assets/lightbox/lightbox.js" type="text/javascript"></script> 
 </head>

@@ -1,13 +1,37 @@
 ---
 ---
-<body>
 {% assign my_title = page.category | append: " | " %}
 {% include header.html title=my_title %}
 {% include top.navigation.html %}
+<body>
+
+<div class="main-container">
+
+    <div class="section-title padding-tb-20">
+        Recent updates on <u>{{ page.category  | replace: '-', ' ' }}</u>
+    </div>
 {% for post in paginator.posts %}                
-<div class="hl-c-title">
-<a href="{{post.url}}">{{ post.title }}</a>
-</div>
+    <div class="post">
+        <div class="post-date padding-tb-10">
+            {{ post.date | date: "%a, %d %b %Y" }}
+        </div>
+
+    <div class="post-item">
+        <span class="post-type">{{ post.type }}</span>
+    <a href="/category/{{ post.categories }}" class="post-type">{{ post.categories }}</a>
+
+    <a href="{{ post.url }}">{{ post.title }}</a> |     
+    
+    </div>
+
+    </div>
 {% endfor %}
+
+{% include paginator.html %}
+</div>
+
+
+<!-- footer -->
+{% include footer.html %}
 
 </body>

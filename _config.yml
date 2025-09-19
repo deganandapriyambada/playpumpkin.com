@@ -8,6 +8,7 @@ plugins:
   - jekyll-paginate-categories
   - jekyll-paginate-tags
   - jekyll-feed
+  - jekyll-sitemap
   - jekyll-tagging-related_posts
   - jekyll-last-modified-at
   - jekyll-loading-lazy

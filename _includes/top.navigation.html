@@ -1,1 +1,20 @@
-<a href="/">Playpumpkin.com</a>
+<div class="main-container">
+    <div class="flex-container padding-tb-30 flex-vertical">
+        <div class="w50">
+            <div class="logo">
+                <a href="/">Playpumpkin</a>
+            </div>
+        </div>
+        <div class="w50">
+            <ul class="horizontal-menu">
+  {% for category in site.categories %}
+    {% assign category_name = category[0] %}
+    <li>
+      <a href="/category/{{ category_name | slugify }}">{{ category_name | replace: '-', ' '  }}</a>
+    </li>
+  {% endfor %}
+
+            </ul>
+        </div>
+    </div>
+</div>

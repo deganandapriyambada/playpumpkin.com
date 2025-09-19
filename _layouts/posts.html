@@ -4,7 +4,23 @@
 {% include header.html title=my_title %}
 {% include top.navigation.html %}
 <body>
-<div class="post">
-     {{  page.content }}
+<div class="post-detail-container">
+     <div class="post-detail-type padding-tb-10">
+          {{  page.type }} on  {{ page.categories }}
+     </div>
+     <div class="post-detail-title padding-tb-10">
+          {{  page.title }}
+     </div>
+     <div class="post-detail-date padding-tb-10">
+          {{ page.date | date: "%a, %d %b %Y" }}
+     </div>
+     <div class="post-content">
+          {{  page.content }}
+     </div>
 </div>
+
+
+<!-- footer -->
+{% include footer.html %}
+
 </body>
