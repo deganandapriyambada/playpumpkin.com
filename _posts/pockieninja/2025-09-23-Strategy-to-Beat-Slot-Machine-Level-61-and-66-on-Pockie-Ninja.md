@@ -71,13 +71,13 @@ stats jumped like a rocket into following schema
 
 ## Skill Recommendation 
 
-1.Quick Step
-2.Chidori
-3.Thunder fall
-4.Greath Strength
-5.Assassinate
-**6.Sexy justu (Mandatory)** as some opponents already have high dodge. No need to raise hit.
-**7.Prayer(Mandatory)** because opponents atk already high and the prayer's barrier will help nullify the damage
+1. Quick Step
+2. Chidori
+3. Thunder fall
+4. Greath Strength
+5. Assassinate
+6. **Sexy justu (Mandatory)** as some opponents already have high dodge. No need to raise hit.
+7. **Prayer(Mandatory)** because opponents atk already high and the prayer's barrier will help nullify the damage
 
 below is the sample build to beat SM lvl 61
 
