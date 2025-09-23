@@ -34,7 +34,7 @@ above rule is applied for all SM level (31 to 66). However, it also important to
 
 at this stage (SM 61 and SM66), high quality outfit need to be refined to the max.
 
-for speedster build there two outfit recommendation
+for **speed-dodge-breaker** build there are two outfit recommendation
 
 ![postimage80](/assets/images/pockieninja/sm16-13.jpg)
 [Chakra naruto outfit for speed dodge breaker](/assets/images/pockieninja/sm16-13.jpg){: .center-image-2 }
