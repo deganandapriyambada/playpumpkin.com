@@ -30,6 +30,25 @@ each slot machine lvl have its own challenges, below is the references strategie
 
 above rule is applied for all SM level (31 to 66). However, it also important to set the right skills.
 
+## Costume Selection
+
+at this stage (SM 61 and SM66), high quality outfit need to be refined to the max.
+
+for speedster build there two outfit recommendation
+
+![postimage80](/assets/images/pockieninja/sm16-13.jpg)
+[Chakra naruto outfit for speed dodge breaker](/assets/images/pockieninja/sm16-13.jpg){: .center-image-6 }
+
+![postimage80](/assets/images/pockieninja/sm16-14.jpg)
+[Chakra naruto outfit for speed dodge breaker with water attribute, better surviveability](/assets/images/pockieninja/sm16-14.jpg){: .center-image-6 }
+
+1. Mugetsu ichigo, 8/7 stength and agility growth (water attribute)
+2. Chakra Naturo, 7/8 tength and agility growth (wind attribute)
+
+just choose based on the preferences, both will works as SM66 opponets average speed is only 3.86, generally not require much agility growth.
+
+However, mugetsu ichigo is preferred as it has water attribute. can increase the chance to activate prayer skill (barrier that can nullify all incoming damage, really useful for all content not just slot machine)
+
 ## Strategy to Battle Slot Machine Lvl 61 (Solo)
 
 SM lvl 61 where the real hell began due to:
