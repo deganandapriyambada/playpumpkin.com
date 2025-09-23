@@ -5,7 +5,7 @@ categories: pockie-ninja
 type: guide
 ---
 
-this article is the continuation of following [article] but more focuses on beating low level slot machine on pockie ninja.
+this article is the continuation of following previous article about beating slot machine lvl 61 & 66 but more focuses on beating low level slot machine (16,26,31,36,41,46,51 and 56) on pockie ninja.
 
 the guide need to be separated as low lvl slot machine generally easier to beat and doesnt require any specific build.
 
