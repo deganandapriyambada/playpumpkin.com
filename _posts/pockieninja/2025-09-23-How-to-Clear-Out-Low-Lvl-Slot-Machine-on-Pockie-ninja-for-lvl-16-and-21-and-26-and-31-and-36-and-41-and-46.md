@@ -27,9 +27,9 @@ below is the opponent stats on SM lvl 16
 
 ## Skill Recommendation
 
-1.Quick Step
-2.Chidori
-3.Thunderfall
+1. Quick Step
+2. Chidori
+3. Thunderfall
 
 below is the sample build to beat SM lvl 16
 
@@ -81,11 +81,11 @@ below is the opponent stats on SM lvl 26
 
 ## Skill Recommendation
 
-1.Quick Step
-2.Chidori
-3.Thunder fall
-4.Greath Strength
-5.Assassinate
+1. Quick Step
+2. Chidori
+3. Thunder fall
+4. Greath Strength
+5. Assassinate
 
 below is sample build to beat SM26
 
@@ -139,11 +139,11 @@ below is the opponent stats on SM lvl 36
 
 ## Skill Recommendation
 
-1.Quick Step
-2.Chidori
-3.Thunder fall
-4.Greath Strength
-5.Assassinate
+1. Quick Step
+2. Chidori
+3. Thunder fall
+4. Greath Strength
+5. Assassinate
 
 below is the sample build to beat SM lvl 36
 
@@ -168,12 +168,12 @@ below is the opponent stats on SM lvl 41
 
 ## Skill Recommendation
 
-1.Quick Step
-2.Chidori
-3.Thunder fall
-4.Greath Strength
-5.Assassinate
-**6.Sexy justu (Mandatory)** as some opponents already have high dodge. No need to raise hit.
+1. Quick Step
+2. Chidori
+3. Thunder fall
+4. Greath Strength
+5. Assassinate
+6. **Sexy justu (Mandatory)** as some opponents already have high dodge. No need to raise hit.
 
 
 below is the sample build to beat SM lvl 41
@@ -214,13 +214,13 @@ stats jumped like a rocket into following schema
 
 ## Skill Recommendation
 
-1.Quick Step
-2.Chidori
-3.Thunder fall
-4.Greath Strength
-5.Assassinate
-**6.Sexy justu (Mandatory)** as some opponents already have high dodge. No need to raise hit.
-**7.Prayer(Mandatory)** because opponents atk already high and the prayer's barrier will help nullify the damage
+1. Quick Step
+2. Chidori
+3. Thunder fall
+4. Greath Strength
+5. Assassinate
+6. **Sexy justu (Mandatory)** as some opponents already have high dodge. No need to raise hit.
+7. **Prayer(Mandatory)** because opponents atk already high and the prayer's barrier will help nullify the damage
 
 below is the sample build to beat SM lvl 51
 
