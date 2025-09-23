@@ -85,7 +85,7 @@ below is the sample build to beat SM lvl 61
 
 ## Strategy to Battle Slot Machine Lvl 66 (Solo)
 
-same strategy as SM lvl61, however the opponents stats are growing. Hence, the character need 2.7K++ attack with 1.2K ++ dodge, out speed the opponents and at least **8% life steal** to counter the gaara's reflection. 
+same strategy as SM lvl61, however the opponents stats are growing. Hence, the character need 2.8K++ attack with 1.2K ++ dodge, out speed the opponents and at least **8% life steal** to counter the gaara's reflection. 
 
 Slot machine lvl 66 stats
 
@@ -93,8 +93,7 @@ Slot machine lvl 66 stats
 |----|----------|--------|--------|
 | 1 | Speed | 3.86 | Speed > 4.0 |
 | 2 | Def | 2K ~ 3K | Break >800 <br /> Atk: > 2.8K++ |
-| 3 | Atk | 300 ~ 500 | Def: > 600, Dodge : 1.2K++ |
-| 3 | Atk | 700 ~ 1K | Dodge> 800 |
+| 3 | Atk | 700 ~ 1K | Dodge> 1.2K |
 
 ## Skills to beat SM Lvl66
 
