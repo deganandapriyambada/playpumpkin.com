@@ -37,10 +37,10 @@ at this stage (SM 61 and SM66), high quality outfit need to be refined to the ma
 for speedster build there two outfit recommendation
 
 ![postimage80](/assets/images/pockieninja/sm16-13.jpg)
-[Chakra naruto outfit for speed dodge breaker](/assets/images/pockieninja/sm16-13.jpg){: .center-image-6 }
+[Chakra naruto outfit for speed dodge breaker](/assets/images/pockieninja/sm16-13.jpg){: .center-image-2 }
 
 ![postimage80](/assets/images/pockieninja/sm16-14.jpg)
-[Chakra naruto outfit for speed dodge breaker with water attribute, better surviveability](/assets/images/pockieninja/sm16-14.jpg){: .center-image-6 }
+[Chakra naruto outfit for speed dodge breaker with water attribute, better surviveability](/assets/images/pockieninja/sm16-14.jpg){: .center-image-2 }
 
 1. Mugetsu ichigo, 8/7 stength and agility growth (water attribute)
 2. Chakra Naturo, 7/8 tength and agility growth (wind attribute)
@@ -82,7 +82,7 @@ stats jumped like a rocket into following schema
 below is the sample build to beat SM lvl 61
 
 ![postimage80](/assets/images/pockieninja/sm16-11.jpg)
-[Solo slot machine lvl 61 with speed-dodge build](/assets/images/pockieninja/sm16-11.jpg){: .center-image-6 }
+[Solo slot machine lvl 61 with speed-dodge build](/assets/images/pockieninja/sm16-11.jpg){: .center-image-2 }
 
 ## Strategy to Battle Slot Machine Lvl 66 (Solo)
 
@@ -119,4 +119,4 @@ skillset :
 below is the sample build to beat SM lvl 66
 
 ![postimage80](/assets/images/pockieninja/sm16-12.jpg)
-[Solo slot machine lvl 66 without scatch.](/assets/images/pockieninja/sm16-12.jpg){: .center-image-6 }
+[Solo slot machine lvl 66 without scatch.](/assets/images/pockieninja/sm16-12.jpg){: .center-image-2 }

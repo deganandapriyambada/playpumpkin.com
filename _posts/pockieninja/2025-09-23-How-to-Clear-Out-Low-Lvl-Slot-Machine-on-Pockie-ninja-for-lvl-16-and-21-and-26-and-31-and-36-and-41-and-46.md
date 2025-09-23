@@ -18,6 +18,7 @@ Opponents on this lvl is considerably has low stats. As long as the character **
 ## Stats Recommendation
 
 below is the opponent stats on SM lvl 16
+
 | No | Opponent Status | Avg Value | Character Target Stats | 
 |----|----------|--------|--------|
 | 1 | Speed | 0.99 | Speed > 0.99 |
@@ -70,6 +71,7 @@ Opponent has no significat stats increase on this level. Still use same strategy
 ## Stats Recommendation
 
 below is the opponent stats on SM lvl 26
+
 | No | Opponent Status | Avg Value | Character target Stats | 
 |----|----------|--------|--------|
 | 1 | Speed | 0.99 | Speed > 0.99 |
@@ -89,7 +91,7 @@ below is sample build to beat SM26
 
 
 ![postimage80](/assets/images/pockieninja/sm16-4.jpg)
-[Beated SM26, focus on getting higher speed, atk and break](/assets/images/pockieninja/sm16-1.jpg){: .center-image-4 }
+[Beated SM26, focus on getting higher speed, atk and break](/assets/images/pockieninja/sm16-1.jpg){: .center-image-2 }
 
 # Strategy to Beat Slot Machine (SM) lvl 31
 
@@ -98,6 +100,7 @@ Same strategy with SM26, not much differences
 ## Stats Recommendation
 
 below is the opponent stats on SM lvl 26
+
 | No | Opponent Status | Avg Value | Character target Stats | 
 |----|----------|--------|--------|
 | 1 | Speed | 0.99 | Speed > 0.99 |
@@ -117,7 +120,7 @@ below is the sample build to beat SM lvl 31
 
 
 ![postimage80](/assets/images/pockieninja/sm16-5.jpg)
-[Beated SM31, focus on getting higher speed, atk and break](/assets/images/pockieninja/sm16-5.jpg){: .center-image-4 }
+[Beated SM31, focus on getting higher speed, atk and break](/assets/images/pockieninja/sm16-5.jpg){: .center-image-2 }
 
 # Strategy to Beat Slot Machine (SM) lvl 36
 
@@ -126,6 +129,7 @@ the opponents stas gain on SM lvl 36 are quite high.
 ## Stats Recommendation
 
 below is the opponent stats on SM lvl 36
+
 | No | Opponent Status | Avg Value | Character target Stats | 
 |----|----------|--------|--------|
 | 1 | Speed | 0.98 | Speed > 0.99 |
@@ -144,7 +148,7 @@ below is the opponent stats on SM lvl 36
 below is the sample build to beat SM lvl 36
 
 ![postimage80](/assets/images/pockieninja/sm16-6.jpg)
-[Atk above 300 is needed to beat SM36](/assets/images/pockieninja/sm16-5.jpg){: .center-image-6 }
+[Atk above 300 is needed to beat SM36](/assets/images/pockieninja/sm16-5.jpg){: .center-image-2 }
 
 
 # Strategy to Beat Slot Machine (SM) lvl 41
@@ -175,7 +179,7 @@ below is the opponent stats on SM lvl 41
 below is the sample build to beat SM lvl 41
 
 ![postimage80](/assets/images/pockieninja/sm16-7.jpg)
-[Atk above 400 is needed to beat SM41](/assets/images/pockieninja/sm16-7.jpg){: .center-image-6 }
+[Atk above 400 is needed to beat SM41](/assets/images/pockieninja/sm16-7.jpg){: .center-image-2 }
 
 # Strategy to Beat Slot Machine (SM) lvl 46
 
@@ -190,7 +194,7 @@ same build to beat SM41 can be used to beat SM46 as the opponents only have foll
 below is the sample build to beat SM lvl 46
 
 ![postimage80](/assets/images/pockieninja/sm16-8.jpg)
-[Atk above 400 is needed to beat SM46](/assets/images/pockieninja/sm16-8.jpg){: .center-image-6 }
+[Atk above 400 is needed to beat SM46](/assets/images/pockieninja/sm16-8.jpg){: .center-image-2 }
 
 # Strategy to Beat Slot Machine (SM) lvl 51
 
@@ -221,7 +225,7 @@ stats jumped like a rocket into following schema
 below is the sample build to beat SM lvl 51
 
 ![postimage80](/assets/images/pockieninja/sm16-9.jpg)
-[Atk above 800 is needed to beat SM51](/assets/images/pockieninja/sm16-9.jpg){: .center-image-6 }
+[Atk above 800 is needed to beat SM51](/assets/images/pockieninja/sm16-9.jpg){: .center-image-2 }
 
 # Strategy to Beat Slot Machine (SM) lvl 56
 
@@ -236,4 +240,4 @@ not munch opponents status growth. should only maintain the speed superiority an
 below is the sample build to beat SM lvl 56
 
 ![postimage80](/assets/images/pockieninja/sm16-10.jpg)
-[1.3K attack with decent break is required to solo beat the Slot Machine Lvl 56](/assets/images/pockieninja/sm16-10.jpg){: .center-image-6 }
+[1.3K attack with decent break is required to solo beat the Slot Machine Lvl 56](/assets/images/pockieninja/sm16-10.jpg){: .center-image-2 }
