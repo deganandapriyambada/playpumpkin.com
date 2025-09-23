@@ -47,11 +47,11 @@ for **speed-dodge-breaker** build there are two outfit recommendation
 
 just choose based on the preferences, both will works as SM66 opponets average speed is only 3.86, generally not require much agility growth.
 
-However, mugetsu ichigo is preferred as it has water attribute. can increase the chance to activate prayer skill (barrier that can nullify all incoming damage, really useful for all content not just slot machine)
+However, **mugetsu ichigo is preferred as it has water attribute**. can increase the chance to activate prayer skill (barrier that can nullify all incoming damage, really useful for all content not just slot machine)
 
 ## Strategy to Battle Slot Machine Lvl 61 (Solo)
 
-SM lvl 61 where the real hell began due to:
+SM lvl 61 where the real hell is began due to:
 
 1. there is an opponents that has 1.3K++ dodge (ino/equivalent)
 2. there is an opponents with 1.6K++ break (shikamaru/equivalent)
@@ -66,7 +66,6 @@ stats jumped like a rocket into following schema
 |----|----------|--------|--------|
 | 1 | Speed | 3.86 | Speed > 4.0 |
 | 2 | Def | 2K ~ 3K | Break >800 <br /> Atk: > 2K |
-| 3 | Atk | 300 ~ 500 | Def: > 600, Dodge : 1K |
 | 3 | Atk | 700 ~ 1K | Dodge> 800 |
 
 ## Skill Recommendation 
@@ -99,7 +98,9 @@ Slot machine lvl 66 stats
 
 ## Skills to beat SM Lvl66
 
-it is recommended to avoid skills with chakra. Left out of thunderfall,prayer,waterfall, assassinate (for life steal) and resurrection because opponents on SM lvl 66 can drain a lot of chakra if they use chakra blades.
+    it is recommended to avoid skills with chakra. 
+
+Left out of thunderfall,prayer,waterfall, assassinate (for life steal) and resurrection because opponents on SM lvl 66 can drain a lot of chakra if they use chakra blades.
 
 &mdash; need to balance out surviveability and attack (the character should already have high atk/2.8K++, even normal atk can deal 1K+ pure damage, no need to relies on powerful atk skill)
 
