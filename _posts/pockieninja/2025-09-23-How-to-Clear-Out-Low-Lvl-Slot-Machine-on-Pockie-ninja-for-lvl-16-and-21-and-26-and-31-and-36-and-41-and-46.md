@@ -18,7 +18,7 @@ Opponents on this lvl is considerably has low stats. As long as the character **
 ## Stats Recommendation
 
 below is the opponent stats on SM lvl 16
-| No | Opponent Status | Avg Value | Character Taget Stats | 
+| No | Opponent Status | Avg Value | Character Target Stats | 
 |----|----------|--------|--------|
 | 1 | Speed | 0.99 | Speed > 0.99 |
 | 2 | Def | 200 | Break: Any as 200 def barely affect the damage <br /> Atk: 60~100 |
@@ -70,7 +70,7 @@ Opponent has no significat stats increase on this level. Still use same strategy
 ## Stats Recommendation
 
 below is the opponent stats on SM lvl 26
-| No | Opponent Status | Avg Value | Character Taget Stats | 
+| No | Opponent Status | Avg Value | Character target Stats | 
 |----|----------|--------|--------|
 | 1 | Speed | 0.99 | Speed > 0.99 |
 | 2 | Def | 272 ~ 672 | Break: any will do <br /> Atk: > 200 |
@@ -98,7 +98,7 @@ Same strategy with SM26, not much differences
 ## Stats Recommendation
 
 below is the opponent stats on SM lvl 26
-| No | Opponent Status | Avg Value | Character Taget Stats | 
+| No | Opponent Status | Avg Value | Character target Stats | 
 |----|----------|--------|--------|
 | 1 | Speed | 0.99 | Speed > 0.99 |
 | 2 | Def | 337 ~ 800 | Break: any will do <br /> Atk: > 200 |
@@ -126,7 +126,7 @@ the opponents stas gain on SM lvl 36 are quite high.
 ## Stats Recommendation
 
 below is the opponent stats on SM lvl 36
-| No | Opponent Status | Avg Value | Character Taget Stats | 
+| No | Opponent Status | Avg Value | Character target Stats | 
 |----|----------|--------|--------|
 | 1 | Speed | 0.98 | Speed > 0.99 |
 | 2 | Def | 400~800 | Break: any will do <br /> Atk: > 300 |
@@ -155,7 +155,7 @@ same stats (atk > 400 and speed higher than the opponents should be able to beat
 
 below is the opponent stats on SM lvl 41
 
-| No | Opponent Status | Avg Value | Character Taget Stats | 
+| No | Opponent Status | Avg Value | Character target Stats | 
 |----|----------|--------|--------|
 | 1 | Speed | 0.98 | Speed > 0.99 |
 | 2 | Def | 467~900 | Break: any will do <br /> Atk: > 400 |
@@ -181,7 +181,7 @@ below is the sample build to beat SM lvl 41
 
 same build to beat SM41 can be used to beat SM46 as the opponents only have following stats
 
-| No | Opponent Status | Avg Value | Character Taget Stats | 
+| No | Opponent Status | Avg Value | Character target Stats | 
 |----|----------|--------|--------|
 | 1 | Speed | 0.98 | Speed > 2.0 |
 | 2 | Def | 560~100 | Break: any will do <br /> Atk: > 450 |
@@ -202,7 +202,7 @@ below is the sample build to beat SM lvl 46
 
 stats jumped like a rocket into following schema
 
-| No | Opponent Status | Avg Value | Character Taget Stats | 
+| No | Opponent Status | Avg Value | Character target Stats | 
 |----|----------|--------|--------|
 | 1 | Speed | 1.94 | Speed > 2.0 |
 | 2 | Def | 1100 ~ 2K | Break >250 <br /> Atk: > 800 |
@@ -227,7 +227,7 @@ below is the sample build to beat SM lvl 51
 
 not munch opponents status growth. should only maintain the speed superiority and focus getting 1K attack.
 
-| No | Opponent Status | Avg Value | Character Taget Stats | 
+| No | Opponent Status | Avg Value | Character target Stats | 
 |----|----------|--------|--------|
 | 1 | Speed | 2.90 | Speed > 3.0 |
 | 2 | Def | 2K ~ 3K | Break: > 300 <br /> Atk:  1.3K++ |

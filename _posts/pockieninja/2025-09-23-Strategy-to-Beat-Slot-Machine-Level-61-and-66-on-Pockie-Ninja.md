@@ -43,7 +43,7 @@ So in addition of high speed stats, the character should already incorporate **d
 
 stats jumped like a rocket into following schema
 
-| No | Opponent Status | Avg Value | Character Taget Stats | 
+| No | Opponent Status | Avg Value | Character Target Stats | 
 |----|----------|--------|--------|
 | 1 | Speed | 3.86 | Speed > 4.0 |
 | 2 | Def | 2K ~ 3K | Break >800 <br /> Atk: > 2K |
