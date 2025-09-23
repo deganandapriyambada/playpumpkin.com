@@ -53,8 +53,8 @@ However, mugetsu ichigo is preferred as it has water attribute. can increase the
 
 SM lvl 61 where the real hell began due to:
 
-1. there is an opponents that has 1K dodge (ino/equivalent)
-2. there is an opponents with 1.6K break (shikamaru/equivalent)
+1. there is an opponents that has 1.3K++ dodge (ino/equivalent)
+2. there is an opponents with 1.6K++ break (shikamaru/equivalent)
 3. there is an opponents with damage reflection (gaara/equivalent)
 4. most of opponent has 800+ attack and it hurts!
 
@@ -93,26 +93,26 @@ Slot machine lvl 66 stats
 | No | Opponent Status | Avg Value | Character Taget Stats | 
 |----|----------|--------|--------|
 | 1 | Speed | 3.86 | Speed > 4.0 |
-| 2 | Def | 2K ~ 3K | Break >800 <br /> Atk: > 2K |
-| 3 | Atk | 300 ~ 500 | Def: > 600, Dodge : 1K |
+| 2 | Def | 2K ~ 3K | Break >800 <br /> Atk: > 2.8K++ |
+| 3 | Atk | 300 ~ 500 | Def: > 600, Dodge : 1.2K++ |
 | 3 | Atk | 700 ~ 1K | Dodge> 800 |
 
 ## Skills to beat SM Lvl66
 
 it is recommended to avoid skills with chakra. Left out of thunderfall,prayer,waterfall, assassinate (for life steal) and resurrection because opponents on SM lvl 66 can drain a lot of chakra if they use chakra blades.
 
-&mdash; need to balance out surviveability and attack (he character should already have high atk/2.5K plus, no need to relies on powerful atk skill)
+&mdash; need to balance out surviveability and attack (the character should already have high atk/2.8K++, even normal atk can deal 1K+ pure damage, no need to relies on powerful atk skill)
 
 skillset :
 
-1. prayer
+1. prayer (to survive!)
 2. thundefall(to stun)
 3. Eight triagram plam(as main atk incase the opponents abosrb all the chakra)
 4. great strength (to stun)
 5. assassinate (for life steal)
 6. substituion technique
 7. sexy jutsu, to counter high dodge (kakashi notebook, get via guild picnic)
-8. giant waterfall (kakashi notebook, get via guild picnic)
+8. giant waterfall, to stun opponents. very effective as most of the opponents use buff skill (kakashi notebook, get via guild picnic)
 
 <hr />
 
