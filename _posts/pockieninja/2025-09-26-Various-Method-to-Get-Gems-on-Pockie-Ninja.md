@@ -32,7 +32,7 @@ Each equipment can be equiped with gems with following mapping
 - ring - 2 gems slot
 - boots - 2 gems slot
 
-    in total, 13 gems can be added to the character's equipment.
+in total, 13 gems can be added to the character's equipment.
 
 # How to obtain gems.
 
