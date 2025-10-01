@@ -76,6 +76,7 @@ as you may see below, this is the amount of s rank scroll and seal breaker gaine
 |------|------|------|------|
 | Seal Breaker | 463 | 568 | 105 |
 | S-rank Scroll  | 117 | 159 | 42 |
+
 so the summary are :
 
 - 105 Seal breaker per 180 stamina
